@@ -1,5 +1,4 @@
- <!doctype html>
-<html>
+<!doctype html>
     <head>
         <meta charset="UTF-8">
         <title>ready2go title</title>
