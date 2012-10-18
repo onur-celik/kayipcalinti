@@ -1,7 +1,7 @@
 <!doctype html>
     <head>
         <meta charset="UTF-8">
-        <title>ready2go title</title>
+        <title>kayipcalinti.net | Kayıp Çalıntı Veritabanı</title>
         <!-- css files -->
         <link rel="stylesheet" href="CSS/reset.css" />
         <link rel="stylesheet" href="CSS/bootstrap.min.css" />

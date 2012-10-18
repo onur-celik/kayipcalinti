@@ -1,8 +1,4 @@
 <?php include "header.php";  ?>
-        <p id="typist"></p>
-        <a href="README.md">See Readme File</a>
-        <div id="box"> <!-- this is gonna rotate 30degs on hover -->
-            <h1 id="heading">ready2Go</h1>
-        </div>
+<h1>kayipcalinti.net | Kayıp Çalıntı Veritabanı</h1>
         
 <?php include "footer.php";  ?>
